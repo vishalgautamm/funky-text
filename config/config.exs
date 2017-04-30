@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure for your application as:
 #
-#     config :schizo, key: :value
+#     config :funkytext, key: :value
 #
 # And access this configuration in your application as:
 #
-#     Application.get_env(:schizo, :key)
+#     Application.get_env(:funkytext, :key)
 #
 # Or configure a 3rd-party app:
 #

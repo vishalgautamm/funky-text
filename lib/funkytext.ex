@@ -1,4 +1,4 @@
-defmodule Schizo do
+defmodule Funkytext do
   @moduledoc """
   A nice library that lets you uppercase or unvowel every other word in the sentence
   """
@@ -8,10 +8,10 @@ defmodule Schizo do
 
     ## Examples
 
-      iex> Schizo.uppercase("hello world")
+      iex> Funkytext.uppercase("hello world")
       "hello WORLD"
 
-      iex> Schizo.uppercase("Lord of the flies")
+      iex> Funkytext.uppercase("Lord of the flies")
       "Lord OF the FLIES"
   """
   def uppercase(str) do
@@ -23,10 +23,10 @@ defmodule Schizo do
 
     ## Examples
 
-      iex> Schizo.unvowel("hello world")
+      iex> Funkytext.unvowel("hello world")
       "hello wrld"
 
-      iex> Schizo.unvowel("Lord of the flies")
+      iex> Funkytext.unvowel("Lord of the flies")
       "Lord f the fls"
   """
   def unvowel(str) do
@@ -56,3 +56,4 @@ defmodule Schizo do
     end
   end
 end
+
