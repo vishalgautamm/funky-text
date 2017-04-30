@@ -1,6 +1,6 @@
 # Funkytext
 
-**Learning TDD in Elixir**
+**Learning how to do TDD and publishing in Elixir**
 
 ## Installation
 
