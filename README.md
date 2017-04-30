@@ -1,5 +1,6 @@
-# Funky Text
+# Learning TDD Developement in Elixir
 
-**TODO: Add description**
+## Funky Text
+A nice library that lets you uppercase or unvowel every other word in the sentence
 
-Learning TDD Developement in Elixir
+
