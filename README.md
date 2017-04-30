@@ -1,6 +1,6 @@
 # Funkytext
 
-**TODO: Add description**
+**Learning TDD in Elixir**
 
 ## Installation
 
