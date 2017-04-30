@@ -1,0 +1,1 @@
+sidebarNodes={"extras":[{"id":"api-reference","title":"API Reference","group":"","headers":[{"id":"Modules","anchor":"modules"}]}],"exceptions":[],"modules":[{"id":"Schizo","title":"Schizo","functions":[{"id":"unvowel/1","anchor":"unvowel/1"},{"id":"uppercase/1","anchor":"uppercase/1"}]}],"protocols":[]}
