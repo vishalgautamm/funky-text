@@ -1,4 +1,4 @@
-# Schizo
+# Funky Text
 
 **TODO: Add description**
 
