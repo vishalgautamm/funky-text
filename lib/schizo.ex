@@ -14,7 +14,6 @@ defmodule Schizo do
       iex> Schizo.uppercase("Lord of the flies")
       "Lord OF the FLIES"
   """
-
   def uppercase(str) do
     transform_every_other_word(str, &upper_caser/1)
   end
@@ -30,12 +29,9 @@ defmodule Schizo do
       iex> Schizo.unvowel("Lord of the flies")
       "Lord f the fls"
   """
-
   def unvowel(str) do
     transform_every_other_word(str, &unvoweler/1)
   end
-
-  
 
   defp transform_every_other_word(str, transformation) do
     str
